@@ -18,8 +18,9 @@ https://www.behance.net/gallery/190721445/Shoes-Style
 
 ## TASK 3
 ### HOTEL MENU
-![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/7571cad1-4600-40a7-9e78-f088889a5d50)
-![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/98f47fd2-0cc8-4423-8f73-89a21a651764)
+![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/7fcecd59-f1bc-43dc-8954-846f5412f33e)
+![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/ee6c7855-ead4-49d4-bd94-07ce5201281f)
+
 
 
 
