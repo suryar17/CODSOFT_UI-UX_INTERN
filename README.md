@@ -3,12 +3,12 @@
 ### FEB BATCH
 
 ## TASK 1
+https://www.behance.net/gallery/190973587/Codsoft-task-1
 ### SIGN UP PAGE
-![home](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/e885c4b5-4cbd-4f25-a274-125ccb06e2e4)
-![sign up](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/4a661dfe-8196-4452-8df6-2c522e22af9c)
-![sign up](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/333e55b0-8b1d-4107-b8df-10644407f063)
+![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/03ae5deb-da7b-43dd-a707-f85844ba6b21)
 
 ## TASK 2 
+https://www.behance.net/gallery/190721445/Shoes-Style
 ### ECOMMERCE WEBSITE
 ![Desktop - 1](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/d34930fc-7e8d-42cc-a443-a39f41183d23)
 ![Desktop - 2](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/6e79fa2d-5944-4e01-9927-d206d0881788)
@@ -18,6 +18,9 @@
 
 ## TASK 3
 ### HOTEL MENU
+![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/7571cad1-4600-40a7-9e78-f088889a5d50)
+![image](https://github.com/suryar17/CODSOFT_UI-UX_INTERN/assets/75236145/98f47fd2-0cc8-4423-8f73-89a21a651764)
+
 
 
 
